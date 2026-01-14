@@ -1,5 +1,5 @@
 [package]
-name = "animals"
+name = "memory_safety2"
 version = "0.1.0"
 edition = "2021"
 

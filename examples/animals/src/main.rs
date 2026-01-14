@@ -1,3 +1,4 @@
 fn main() {
-  let bunnies: i32 = 4;
+    let bunnies = 16; //lets'face it, sometimes we need to change the value
+    bunnies = 9;
 }
